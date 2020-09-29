@@ -1,5 +1,11 @@
-### Hi there 👋
+![Profile Theme](/assets/images/github-profile-theme.png "My Space Theme")
+### Howdy 👋
 
+#### I'm John! Just your average DIY coder. I'm a fan of learning new of things. So far, I'm currently proficient in C#, Python, SQL, HTML, CSS, and Javascript, although my favorite projects usually happen in C#. I started out gaming, then creating mods for that game, and now I'm learning how to make my own games on unity. I'm not only a fan of creating games, I enjoy making applications in general, that's why I'm mostly looking into the development side of coding. If you got something for me to make, you've gotten the right man.
+---
+My GitHub website showcases most of my programming ability: [GitHub Portfolio](https://johnly55.github.io/)
+
+Also check me out on my LinkedIn Profile: [John Ly LinkedIn](https://www.linkedin.com/in/john-ly-)
 <!--
 **johnly55/johnly55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
